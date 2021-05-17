@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719512457904",
+    "firebase_url": "https://rtautoambulance.firebaseio.com",
+    "project_id": "rtautoambulance",
+    "storage_bucket": "rtautoambulance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719512457904:android:90ac1d1b26d6e8ac026175",
+        "android_client_info": {
+          "package_name": "com.navya.rtautoambulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719512457904-if6sifhh7kps0jmhnotftrre915fgj72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navya.rtautoambulance",
+            "certificate_hash": "4c797832a4324c661c12525bb599520b9b5fd9c4"
+          }
+        },
+        {
+          "client_id": "719512457904-uigm4ad5h0q7ubj834lc4r4ldu4d5rpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL_26BoqIyHImKMSnrGJuBWcqt5wewi0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719512457904-uigm4ad5h0q7ubj834lc4r4ldu4d5rpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
